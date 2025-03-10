@@ -83,7 +83,7 @@ plt.ylabel('Sepal Length (cm)')
 plt.legend()
 plt.show()
 ```
-![Line Chart](images/line_chart.png)
+![linechart](https://github.com/user-attachments/assets/9166d668-19b2-49f1-964a-6998875db02f)
 
 ### 4️⃣ Bar Chart - Average Petal Length per Species
 ```python
@@ -92,7 +92,7 @@ sns.barplot(x='species', y='petal_length', data=df)
 plt.title('Average Petal Length per Species')
 plt.show()
 ```
-![Bar Chart](images/bar_chart.png)
+![barplot](https://github.com/user-attachments/assets/d0464513-1f2b-4494-a6ad-224a4538f9b4)
 
 ### 5️⃣ Histogram - Sepal Width Distribution
 ```python
@@ -102,7 +102,7 @@ plt.xlabel('Sepal Width (cm)')
 plt.ylabel('Frequency')
 plt.show()
 ```
-![Histogram](images/histogram.png)
+![histogram](https://github.com/user-attachments/assets/5a085afe-f8c2-49bf-85dc-026aa7c31e77)
 
 ### 6️⃣ Scatter Plot - Sepal Length vs Petal Length
 ```python
@@ -110,7 +110,7 @@ sns.scatterplot(x='sepal_length', y='petal_length', hue='species', data=df)
 plt.title('Sepal Length vs Petal Length')
 plt.show()
 ```
-![Scatter Plot](images/scatter_plot.png)
+![scatter](https://github.com/user-attachments/assets/9ebc3f5a-04ed-482a-88c9-71c88e826dec)
 
 ---
 
